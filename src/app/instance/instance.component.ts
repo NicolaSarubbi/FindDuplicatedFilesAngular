@@ -16,7 +16,4 @@ export class InstanceComponent implements OnInit {
 
   }
 
-  branch2() {
-
-  }
 }
