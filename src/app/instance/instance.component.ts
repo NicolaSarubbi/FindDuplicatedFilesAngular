@@ -23,4 +23,12 @@ export class InstanceComponent implements OnInit {
   sviluppo2(){
 
   }
+
+  sviluppo3 () {
+
+  }
+
+  sviluppob1() {
+
+  }
 }
