@@ -8,6 +8,10 @@ import { Component, OnInit } from '@angular/core';
 export class InstanceComponent implements OnInit {
   username: string = '';
 
+  test() {
+
+  }
+
   constructor() { }
 
   ngOnInit(): void {
