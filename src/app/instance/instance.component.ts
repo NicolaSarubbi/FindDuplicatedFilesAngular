@@ -15,4 +15,8 @@ export class InstanceComponent implements OnInit {
   master1() {
 
   }
+
+  master2() {
+
+  }
 }
