@@ -12,8 +12,4 @@ export class InstanceComponent implements OnInit {
     this.username = 'prova';
   }
 
-  branch1() {
-
-  }
-
 }
