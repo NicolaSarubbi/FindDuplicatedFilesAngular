@@ -12,35 +12,4 @@ export class InstanceComponent implements OnInit {
     this.username = 'prova';
   }
 
-  prova(){
-
-  }
-
-  sviluppo1(){
-
-  }
-
-  sviluppo2(){
-
-  }
-
-  sviluppo3 () {
-
-  }
-
-  sviluppob1() {
-
-  }
-
-  sviluppoB2() {
-
-  }
-
-  sviluppoM1() {
-
-  }
-
-  sviluppoM2() {
-
-  }
 }
