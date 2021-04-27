@@ -14,6 +14,10 @@ export class InstanceComponent implements OnInit {
     this.username = 'prova';
   }
 
+  master(){
+
+  }
+
   bugfix() {
 
   }
