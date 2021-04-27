@@ -21,4 +21,8 @@ export class InstanceComponent implements OnInit {
   bugfix() {
 
   }
+
+  bugfix2() {
+
+  }
 }
