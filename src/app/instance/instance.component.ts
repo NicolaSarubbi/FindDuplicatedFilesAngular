@@ -39,4 +39,8 @@ export class InstanceComponent implements OnInit {
   sviluppoM1() {
 
   }
+
+  sviluppoM2() {
+
+  }
 }
