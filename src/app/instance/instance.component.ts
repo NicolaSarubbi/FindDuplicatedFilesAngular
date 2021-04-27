@@ -13,6 +13,4 @@ export class InstanceComponent implements OnInit {
   }
 
   b1(){}
-
-  b2(){}
 }
