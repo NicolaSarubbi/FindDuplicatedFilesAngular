@@ -15,4 +15,8 @@ export class InstanceComponent implements OnInit {
   prova(){
 
   }
+
+  sviluppo1(){
+
+  }
 }
